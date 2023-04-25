@@ -53,6 +53,10 @@
     margin: 0.5rem 0;
 }
 
+.timeline__skill {
+    font-weight: bold;
+}
+
 @media screen and (max-width: 1024px) {
     .resume__container {
       grid-template-columns: 450px;
@@ -86,7 +90,7 @@
         left: -9px;
     }
 
-    .timeline_text {
+    .timeline_text .timeline__skill {
         text-align: justify;
     }
 }

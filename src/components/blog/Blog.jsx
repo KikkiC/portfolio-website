@@ -17,7 +17,7 @@ export const Blog = () => {
             <div className="blog__details">
                 <h3 className="blog__title">Digital Artwork</h3>
                 <div className="blog__meta">
-                    <span>Work from my Etsy shop</span>
+                    <span>Work from my recent projects</span>
                 </div>
             </div>
         </div>
