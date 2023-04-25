@@ -16,7 +16,7 @@ export const AboutBox = () => {
             <i className="about__icon icon-plane"></i>
 
             <div>
-                <h3 className="about__title">3</h3>
+                <h3 className="about__title">4</h3>
                 <span className="about__subtitle">Years since my last trip</span>
             </div>
         </div>
