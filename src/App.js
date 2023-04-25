@@ -12,9 +12,11 @@ function App() {
       <Sidebar />
       <main className='main'>
         <Home />
-        <About />
-        <Resume />
-        <Blog />
+        <main className='others'>
+          <About />
+          <Blog />
+          <Resume />
+        </main>
       </main>
     </>
   );
