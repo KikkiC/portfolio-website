@@ -1,13 +1,16 @@
 import React from 'react'
 
 export const AboutBox = () => {
+  var currYear = new Date().getFullYear();
+  var travelGap = currYear - 2019;
+
   return (
     <div className="about__boxes grid">
         <div className="about__box">
             <i className="about__icon icon-fire"></i>
 
             <div>
-                <h3 className="about__title">100+</h3>
+                <h3 className="about__title">120+</h3>
                 <span className="about__subtitle">Kdramas watched</span>
             </div>
         </div>
@@ -16,7 +19,7 @@ export const AboutBox = () => {
             <i className="about__icon icon-plane"></i>
 
             <div>
-                <h3 className="about__title">4</h3>
+                <h3 className="about__title">{travelGap}</h3>
                 <span className="about__subtitle">Years since my last trip</span>
             </div>
         </div>
