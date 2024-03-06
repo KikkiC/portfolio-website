@@ -64,18 +64,18 @@
     display: block;
 }
 
-.canva {
+.qa {
     width: 80%;
     background-color: rgb(255, 76, 96);
 }
 
-.development {
-    width: 70%;
+.art {
+    width: 75%;
     background-color: rgb(255, 209, 92);
 }
 
-.qa__tester {
-    width: 75%;
+.web__dev {
+    width: 70%;
     background-color: rgb(108, 108, 299);
 }
 
