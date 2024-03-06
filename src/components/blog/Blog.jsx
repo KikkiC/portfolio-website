@@ -11,7 +11,7 @@ export const Blog = () => {
     <div className="blog__container grid">
         <div className="blog__card">
             <div className="blog__thumb">
-                <a href="https://drive.google.com/drive/folders/1qY9IZKAe0Mg1C8DgCbHPsQCb7ym9ah7E?usp=share_link" target="_blank"><img src={Image1} alt="" className="blog__img" id="digital" /></a>
+                <a href="https://drive.google.com/drive/folders/1qY9IZKAe0Mg1C8DgCbHPsQCb7ym9ah7E?usp=share_link" target="_blank" rel="noreferrer"><img src={Image1} alt="" className="blog__img" id="digital" /></a>
             </div>
 
             <div className="blog__details">
@@ -24,7 +24,7 @@ export const Blog = () => {
 
         <div className="blog__card">
             <div className="blog__thumb">
-                <a href="https://drive.google.com/drive/folders/1Q95kPmBzyqu8GBgVUUiTxOqpd8aYtp98?usp=share_link" target="_blank"><img src={Image2} alt="" className="blog__img" id="comics" /></a>
+                <a href="https://drive.google.com/drive/folders/1Q95kPmBzyqu8GBgVUUiTxOqpd8aYtp98?usp=share_link" target="_blank" rel="noreferrer"><img src={Image2} alt="" className="blog__img" id="comics" /></a>
             </div>
 
             <div className="blog__details">
@@ -37,7 +37,7 @@ export const Blog = () => {
 
         <div className="blog__card">
             <div className="blog__thumb">
-                <a href="https://drive.google.com/drive/folders/1xSvrixddIftPDSfdbS8XwgTMFFl7R0j6?usp=share_link" target="_blank"><img src={Image3} alt="" className="blog__img" id="fanart" /></a>
+                <a href="https://drive.google.com/drive/folders/1xSvrixddIftPDSfdbS8XwgTMFFl7R0j6?usp=share_link" target="_blank" rel="noreferrer"><img src={Image3} alt="" className="blog__img" id="fanart" /></a>
             </div>
 
             <div className="blog__details">
