@@ -28,7 +28,7 @@ export const AboutBox = () => {
             <i className="about__icon icon-game-controller"></i>
 
             <div>
-                <h3 className="about__title">7,000+</h3>
+                <h3 className="about__title">7,500+</h3>
                 <span className="about__subtitle">Games on WOTB</span>
             </div>
         </div>
