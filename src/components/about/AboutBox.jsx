@@ -10,7 +10,7 @@ export const AboutBox = () => {
             <i className="about__icon icon-fire"></i>
 
             <div>
-                <h3 className="about__title">120+</h3>
+                <h3 className="about__title">125+</h3>
                 <span className="about__subtitle">Kdramas watched</span>
             </div>
         </div>

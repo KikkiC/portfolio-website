@@ -14,7 +14,8 @@ const About = () => {
                 <div className="about__data grid">
                     <div className="about__info">
                         <p className="about__description">
-                            Hi! My name is Kikki and I studied Computer Science at the University of British Columbia. I'm also a freelance
+                            Hi! My name is Kikki and I studied Computer Science at the University of British Columbia. 
+                            I'm also a Certified Tester Foundation Level and a freelance
                             self-taught artist so I love combining my art and tech skills to produce cool
                             products! Feel free to contact me about art commissions and my CS background.                  
                         </p>
@@ -23,8 +24,8 @@ const About = () => {
                     <div className="about__skills grid">
                         <div className="skills__data">
                             <div className="skills__titles">
-                                <h3 className="skills__name">Quality Assurance</h3>
-                                <span className="skills__number">80%</span>
+                                <h3 className="skills__name">Software Testing/QA</h3>
+                                <span className="skills__number">85%</span>
                             </div>
 
                             <div className="skills__bar">
