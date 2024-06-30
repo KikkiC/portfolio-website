@@ -15,8 +15,8 @@ const About = () => {
                     <div className="about__info">
                         <p className="about__description">
                             Hi! My name is Kikki and I studied Computer Science at the University of British Columbia. 
-                            I'm also a Certified Tester Foundation Level and a freelance
-                            self-taught artist so I love combining my art and tech skills to produce cool
+                            I am also an ISTQB-certified tester and a freelance
+                            self-taught artist so I love using both my art and tech skills to produce cool
                             products! Feel free to contact me about art commissions and my CS background.                  
                         </p>
                     </div>

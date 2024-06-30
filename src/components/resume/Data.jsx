@@ -12,6 +12,16 @@ const Data = [
         id: 2,
         category: "education",
         icon: "icon-graduation",
+        year: "June 2024",
+        title: "Software Testing Certifications",
+        desc: "• Member of the Official U.S. List of Certified and Credentialed Software Testers™\n" +
+        "(i) ASTQB - ISTQB Certified Tester Foundation Level (Credential ID: 24-CTFL-02239-USA)\n" +  
+        "(ii) AT*SQA - Test Automation Micro-credential",
+    },
+    {
+        id: 3,
+        category: "education",
+        icon: "icon-graduation",
         year: "September 2014 - June 2019",
         title: "High School Diploma: Robert Cecil Palmer Secondary School",
         desc: "• BC Achievement Scholarship\n" + 
@@ -20,7 +30,7 @@ const Data = [
         "• Social Media Content Creator"
     },
     {
-        id: 3,
+        id: 4,
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2023 - April 2024",
@@ -32,7 +42,7 @@ const Data = [
         skill: "Skills: Manual Testing, Jama, Confluence, JIRA, Microsoft Excel, Appian, Workday Integration"
     },
     {
-        id: 4,
+        id: 5,
         category: "experience",
         icon: "icon-briefcase",
         year: "May 2022 - Present",
@@ -42,7 +52,7 @@ const Data = [
         skill: "Skills: Canva, Google Drive, Digital Art, Graphic Design, Typography, Design Principles, Etsy, Customer Service"
     },
     {
-        id: 5,
+        id: 6,
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2022 - April 2023",
@@ -54,7 +64,7 @@ const Data = [
         skill: "Skills: Selenium, Java, JavaScript, JUnit, HTML, CSS, Jenkins, Git, Bitbucket, OpenStack, Ansible, Gradle, JIRA"
     },
     {
-        id: 6,
+        id: 7,
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2017 - June 2018",
