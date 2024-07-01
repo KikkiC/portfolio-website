@@ -25,9 +25,9 @@ const Data = [
         year: "September 2014 - June 2019",
         title: "High School Diploma: Robert Cecil Palmer Secondary School",
         desc: "• BC Achievement Scholarship\n" + 
-        "• Subject Award in Computer Programming 12\n" + 
-        "• Senior Grad Committee\n" + 
-        "• Social Media Content Creator"
+        "• Subject Award in Computer Programming 12\n" +
+        "• Event Planner & Social Media Content Creator for the Senior Grad Committee\n" +
+        "• Private STEM Tutor"
     },
     {
         id: 4,
