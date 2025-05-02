@@ -35,43 +35,42 @@ const Data = [
         icon: "icon-briefcase",
         year: "September 2023 - April 2024",
         title: "QA Analyst Intern @ The University of British Columbia",
-        desc: "• Analyzed specifications and user stories to construct manual test cases for Workday IRP Student\n" + 
-        "• Executed tests related to the management of student data, operational reports, student affiliates, and Ad-Hoc communications\n" + 
-        "• Conducted Single User Performance Testing and ensured correct data transfer from the old Student Information System (SIS) to Workday tenants through business data validation\n" + 
-        "• Logged defects against design discrepancies and violations of the report metadata standards",
-        skill: "Skills: Manual Testing, Jama, Confluence, JIRA, Microsoft Excel, Appian, Workday Integration"
+        desc: "• Designed & executed manual test cases based on functional specs & Agile user stories for Workday IRP Student & Appian workflows\n" + 
+        "• Conducted functional, regression, & performance testing for various features (student affiliates, ad-hoc communications, student data, & operational reports)\n" + 
+        "• Logged 70+ defects in JIRA for design inconsistencies & metadata standard violations\n" + 
+        "• Validated data integrity during migration from legacy SIS to Workday",
+        skill: "Tools: JIRA, JAMA, Confluence, Appian, Workday, Excel"
     },
     {
         id: 5,
         category: "experience",
         icon: "icon-briefcase",
-        year: "May 2022 - Present",
-        title: "Freelance Artist, Etsy Shop Owner of KContents",
-        desc: "• Utilized digital art programs to create custom artwork and templates\n" + 
-        "• Managed orders and researched trends to optimize listings and descriptions",
-        skill: "Skills: Canva, Google Drive, Digital Art, Graphic Design, Typography, Design Principles, Etsy, Customer Service"
+        year: "September 2022 - April 2023",
+        title: "Junior QA Engineer Co-op @ Incognito Software Systems",
+        desc: "• Developed & executed automated & manual tests for web UI components across multiple projects\n" + 
+        "• Reported 60+ bugs & improvement suggestions in JIRA, using debug log analysis to isolate failures\n" + 
+        "• Reduced code duplication & improved Jenkins pipeline stability across QA projects",
+        skill: "Tools: Selenium, JIRA, Jenkins, JUnit, Java, Bitbucket"
     },
     {
         id: 6,
         category: "experience",
         icon: "icon-briefcase",
-        year: "September 2022 - April 2023",
-        title: "Junior QA Engineer Co-op @ Incognito Software Systems",
-        desc: "• Developed, executed, and maintained the stability of manual and automated tests\n" + 
-        "• Reported ~60 issues for bugs, investigated logs, and identified UI design improvements\n" + 
-        "• Updated dependencies and reduced duplication through refactoring and shared code\n" + 
-        "• Wrote Ansible roles and playbooks to automate service package installations and updates",
-        skill: "Skills: Selenium, Java, JavaScript, JUnit, HTML, CSS, Jenkins, Git, Bitbucket, OpenStack, Ansible, Gradle, JIRA"
+        year: "May 2022 - Present",
+        title: "Freelance Artist, Etsy Shop Owner of KContents",
+        desc: "• Managed client communication, digital product creation, & shop performance optimization on Etsy\n" + 
+        "• Applied design tools to deliver custom artwork aligned with client expectations",
+        skill: "Tools: Canva, Sketchbook, Adobe Express"
     },
     {
         id: 7,
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2017 - June 2018",
-        title: "Student Tutor @ Robert Cecil Palmer Secondary School",
+        title: "STEM Tutor @ Robert Cecil Palmer Secondary School",
         desc: "• Increased student confidence through attentive instruction in Math, English, and Science\n" + 
         "• Provided study tips and exam strategies based on students' individual learning style",
-        skill: "Skills: Communication, Private Tutoring, Flexible Approach, Chinese to English Translation, Active Listening"
+        skill: "Skills: Communication, Flexible Approach, Chinese to English Translation, Active Listening"
     },
 ];
 

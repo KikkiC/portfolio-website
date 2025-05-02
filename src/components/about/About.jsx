@@ -14,10 +14,7 @@ const About = () => {
                 <div className="about__data grid">
                     <div className="about__info">
                         <p className="about__description">
-                            Hi! My name is Kikki and I studied Computer Science at the University of British Columbia. 
-                            I am also an ISTQB-certified tester and a freelance
-                            self-taught artist so I love using both my art and tech skills to produce cool
-                            products! Feel free to contact me about art commissions and my CS background.                  
+                            Hi! My name is Kikki and I'm a Computer Science graduate from the University of British Columbia. I am also an ISTQB-certified tester and a freelance self-taught artist, so I love using both my art and tech skills to produce cool products! Feel free to reach out if you’d like to collaborate, commission artwork, or chat about my CS background.            
                         </p>
                     </div>
 
@@ -47,11 +44,22 @@ const About = () => {
                         <div className="skills__data">
                             <div className="skills__titles">
                                 <h3 className="skills__name">Web Development</h3>
-                                <span className="skills__number design">70%</span>
+                                <span className="skills__number">70%</span>
                             </div>
 
                             <div className="skills__bar">
                                 <span className="skills__percentage web__dev"></span>
+                            </div>
+                        </div>
+
+                        <div className="skills__data">
+                            <div className="skills__titles">
+                                <h3 className="skills__name">HCI Design</h3>
+                                <span className="skills__number">70%</span>
+                            </div>
+
+                            <div className="skills__bar">
+                                <span className="skills__percentage hci"></span>
                             </div>
                         </div>
                     </div>

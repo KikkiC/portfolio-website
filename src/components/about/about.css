@@ -79,6 +79,11 @@
     background-color: rgb(108, 108, 299);
 }
 
+.hci {
+    width: 70%;
+    background-color: rgb(67, 212, 125);
+}
+
 .about__boxes {
     grid-template-columns: repeat(3, 1fr);
     column-gap: 1.875rem;
