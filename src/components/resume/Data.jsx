@@ -38,7 +38,7 @@ const Data = [
         desc: "• Executed manual regression, performance, & functional tests for Workday Student & Appian features based on Agile user stories & functional specifications, targeting student data, communication workflows, & operational reporting\n" + 
         "• Logged 70+ defects in JIRA, including UI inconsistencies & metadata standard violations\n" + 
         "• Verified student records during data migration by manually cross-checking attributes between the legacy Student Information System & Workday",
-        skill: "Tech: JIRA, JAMA, Confluence, Appian, Workday, Excel"
+        skill: "Tech: JIRA, JAMA, Confluence, Appian, Workday, Microsoft Excel"
     },
     {
         id: 5,
