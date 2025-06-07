@@ -35,32 +35,33 @@ const Data = [
         icon: "icon-briefcase",
         year: "September 2023 - April 2024",
         title: "QA Analyst Intern @ The University of British Columbia",
-        desc: "• Designed & executed manual test cases based on functional specs & Agile user stories for Workday IRP Student & Appian workflows\n" + 
-        "• Conducted functional, regression, & performance testing for various features (student affiliates, ad-hoc communications, student data, & operational reports)\n" + 
-        "• Logged 70+ defects in JIRA for design inconsistencies & metadata standard violations\n" + 
-        "• Validated data integrity during migration from legacy SIS to Workday",
-        skill: "Tools: JIRA, JAMA, Confluence, Appian, Workday, Excel"
+        desc: "• Executed manual regression, performance, & functional tests for Workday Student & Appian features based on Agile user stories & functional specifications, targeting student data, communication workflows, & operational reporting\n" + 
+        "• Logged 70+ defects in JIRA, including UI inconsistencies & metadata standard violations\n" + 
+        "• Verified student records during data migration by manually cross-checking attributes between the legacy Student Information System & Workday",
+        skill: "Tech: JIRA, JAMA, Confluence, Appian, Workday, Excel"
     },
     {
         id: 5,
         category: "experience",
         icon: "icon-briefcase",
-        year: "September 2022 - April 2023",
-        title: "Junior QA Engineer Co-op @ Incognito Software Systems",
-        desc: "• Developed & executed automated & manual tests for web UI components across multiple projects\n" + 
-        "• Reported 60+ bugs & improvement suggestions in JIRA, using debug log analysis to isolate failures\n" + 
-        "• Reduced code duplication & improved Jenkins pipeline stability across QA projects",
-        skill: "Tools: Selenium, JIRA, Jenkins, JUnit, Java, Bitbucket"
+        year: "May 2022 - July 2023",
+        title: "Freelance Artist, Etsy Shop Owner of KContents",
+        desc: "• Managed client communication, digital product creation, & shop performance optimization on Etsy\n" + 
+        "• Applied design tools to deliver custom artwork aligned with client expectations",
+        skill: "Tech: Canva, Sketchbook, Adobe Express"
     },
     {
         id: 6,
         category: "experience",
         icon: "icon-briefcase",
-        year: "May 2022 - Present",
-        title: "Freelance Artist, Etsy Shop Owner of KContents",
-        desc: "• Managed client communication, digital product creation, & shop performance optimization on Etsy\n" + 
-        "• Applied design tools to deliver custom artwork aligned with client expectations",
-        skill: "Tools: Canva, Sketchbook, Adobe Express"
+        year: "September 2022 - April 2023",
+        title: "Junior QA Engineer Co-op @ Incognito Software Systems",
+        desc: "• Developed & executed automated & manual UI tests for a remote device management platform used by telecom providers to monitor customer equipment\n" + 
+        "• Used Postman for exploratory API testing during backend bug investigations in automation\n" + 
+        "• Reported 60+ bugs & usability issues in JIRA, using debug log analysis to isolate root causes\n" + 
+        "• Refactored test scripts by centralizing repeated logic into reusable modules & using published JAR artifacts to improve CI/CD stability & reduce maintenance overhead\n" + 
+        "• Wrote Ansible roles and playbooks to automate service package installations and updates",
+        skill: "Tech: Selenium, JIRA, Jenkins, JUnit, Java, Bitbucket, Postman"
     },
     {
         id: 7,

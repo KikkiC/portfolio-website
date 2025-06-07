@@ -2,7 +2,7 @@ import React from 'react'
 
 export const AboutBox = () => {
   var currYear = new Date().getFullYear();
-  var travelGap = currYear - 2019;
+  var travelGap = currYear - 2025;
 
   return (
     <div className="about__boxes grid">
