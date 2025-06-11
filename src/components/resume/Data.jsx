@@ -26,7 +26,7 @@ const Data = [
         title: "High School Diploma: Robert Cecil Palmer Secondary School",
         desc: "• BC Achievement Scholarship\n" + 
         "• Subject Award in Computer Programming 12\n" +
-        "• Event Planner & Social Media Content Creator for the Senior Grad Committee\n" +
+        "• Event Planner and Social Media Content Creator for the Senior Grad Committee\n" +
         "• Private STEM Tutor"
     },
     {
@@ -34,10 +34,11 @@ const Data = [
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2023 - April 2024",
-        title: "QA Analyst Intern @ The University of British Columbia",
-        desc: "• Executed manual regression, performance, & functional tests for Workday Student & Appian features based on Agile user stories & functional specifications, targeting student data, communication workflows, & operational reporting\n" + 
-        "• Logged 70+ defects in JIRA, including UI inconsistencies & metadata standard violations\n" + 
-        "• Verified student records during data migration by manually cross-checking attributes between the legacy Student Information System & Workday",
+        title: "QA Analyst Co-op @ The University of British Columbia",
+        desc: "• Contributed to Launch 1 and 2 phases of the Workday rollout, part of a 7-year initiative replacing a Student Information System that was over 35 years old with a modern off-the-shelf enterprise platform\n" + 
+        "• Supported data migration by preparing student records for import and verifying data accuracy post-migration through manual cross-checking between legacy and Workday systems\n" + 
+        "• Executed manual regression, performance, and functional tests for Workday Student and Appian based on Agile user stories and specifications, focusing on student data, communications, and reporting workflows\n" + 
+        "• Logged 70+ defects in JIRA, including UI inconsistencies and metadata standard violations",
         skill: "Tech: JIRA, JAMA, Confluence, Appian, Workday, Microsoft Excel"
     },
     {
@@ -45,9 +46,8 @@ const Data = [
         category: "experience",
         icon: "icon-briefcase",
         year: "May 2022 - July 2023",
-        title: "Freelance Artist, Etsy Shop Owner of KContents",
-        desc: "• Managed client communication, digital product creation, & shop performance optimization on Etsy\n" + 
-        "• Applied design tools to deliver custom artwork aligned with client expectations",
+        title: "Freelance Artist",
+        desc: "• Managed full-cycle digital art commissions from client consultation through Zoom, Discord, and Etsy to final delivery while ensuring on-time completion and design satisfaction",
         skill: "Tech: Canva, Sketchbook, Adobe Express"
     },
     {
@@ -56,10 +56,10 @@ const Data = [
         icon: "icon-briefcase",
         year: "September 2022 - April 2023",
         title: "Junior QA Engineer Co-op @ Incognito Software Systems",
-        desc: "• Developed & executed automated & manual UI tests for a remote device management platform used by telecom providers to monitor customer equipment\n" + 
+        desc: "• Developed and executed automated and manual UI tests for a remote device management platform used by telecom providers to monitor customer equipment\n" + 
+        "• Reported 60+ bugs and usability issues in JIRA, using debug log analysis to isolate root causes\n" + 
         "• Used Postman for exploratory API testing during backend bug investigations in automation\n" + 
-        "• Reported 60+ bugs & usability issues in JIRA, using debug log analysis to isolate root causes\n" + 
-        "• Refactored test scripts by centralizing repeated logic into reusable modules & using published JAR artifacts to improve CI/CD stability & reduce maintenance overhead\n" + 
+        "• Refactored test scripts by moving repeated logic into reusable modules and used published JAR artifacts to stabilize CI/CD pipelines and reduce maintenance overhead\n" + 
         "• Wrote Ansible roles and playbooks to automate service package installations and updates",
         skill: "Tech: Selenium, JIRA, Jenkins, JUnit, Java, Bitbucket, Postman"
     },
