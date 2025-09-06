@@ -3,13 +3,23 @@ const Data = [
         id: 1,
         category: "education",
         icon: "icon-graduation",
+        year: "October 2025 - December 2025",
+        title: "AI Certifications",
+        desc: "• UBC AI-Powered Automation and Personalization Micro-credential\n" +
+        "(i) AI and Cloud Strategy: Fundamentals\n" +  
+        "(ii) AI Strategy: Leveraging Automation",
+    },
+    {
+        id: 2,
+        category: "education",
+        icon: "icon-graduation",
         year: "September 2019 - May 2025",
         title: "Bachelor of Science: Computer Science",
         desc: "• The University of British Columbia (Vancouver)\n" + 
         "• UBC Science Co-op Program",
     },
     {
-        id: 2,
+        id: 3,
         category: "education",
         icon: "icon-graduation",
         year: "June 2024",
@@ -19,7 +29,7 @@ const Data = [
         "(ii) AT*SQA - Test Automation Micro-credential",
     },
     {
-        id: 3,
+        id: 4,
         category: "education",
         icon: "icon-graduation",
         year: "September 2014 - June 2019",
@@ -30,7 +40,7 @@ const Data = [
         "• Private STEM Tutor"
     },
     {
-        id: 4,
+        id: 5,
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2023 - April 2024",
@@ -42,7 +52,7 @@ const Data = [
         skill: "Tech: JIRA, JAMA, Confluence, Appian, Workday, Microsoft Excel"
     },
     {
-        id: 5,
+        id: 6,
         category: "experience",
         icon: "icon-briefcase",
         year: "May 2022 - July 2023",
@@ -52,7 +62,7 @@ const Data = [
         skill: "Tech: Canva, Sketchbook, Adobe Express"
     },
     {
-        id: 6,
+        id: 7,
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2022 - April 2023",
@@ -65,7 +75,7 @@ const Data = [
         skill: "Tech: Selenium, JIRA, Jenkins, JUnit, Java, Bitbucket, Git, Postman, MongoDB"
     },
     {
-        id: 7,
+        id: 8,
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2017 - June 2018",
