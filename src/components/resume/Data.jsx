@@ -3,14 +3,26 @@ const Data = [
         id: 1,
         category: "education",
         icon: "icon-graduation",
+        year: "Coming Soon...",
+        title: "In Progress Certifications",
+        desc: "• Certified Associate in Project Management (CAPM)\n" +
+        "(i) BCIT OPMT 0203 - CAPM Exam Preparation\n" +  
+        "• Udemy - Complete Software Testing Bootcamp",
+        skill: "Tech: Selenium WebDriver, Trello, JMeter, TestNG, Katalon Studio, HP LoadRunner, Testlink"
+    },
+    {
+        id: 2,
+        category: "education",
+        icon: "icon-graduation",
         year: "October 2025 - December 2025",
         title: "AI Certifications",
         desc: "• UBC AI-Powered Automation and Personalization Micro-credential\n" +
         "(i) AI and Cloud Strategy: Fundamentals\n" +  
         "(ii) AI Strategy: Leveraging Automation",
+        skill: "Tech: OpenAI Custom GPTS, Hugging Face AutoTrain, Google AI Studio, Poe, ML Studio, ChatRTX, Zapier, HeyGen, DALL-E, ElevenLabs, Midjourney, Make, Copilot"
     },
     {
-        id: 2,
+        id: 3,
         category: "education",
         icon: "icon-graduation",
         year: "September 2019 - May 2025",
@@ -19,7 +31,7 @@ const Data = [
         "• UBC Science Co-op Program",
     },
     {
-        id: 3,
+        id: 4,
         category: "education",
         icon: "icon-graduation",
         year: "June 2024",
@@ -27,9 +39,10 @@ const Data = [
         desc: "• Member of the Official U.S. List of Certified and Credentialed Software Testers™\n" +
         "(i) ASTQB - ISTQB Certified Tester Foundation Level (Credential ID: 24-CTFL-02239-USA)\n" +  
         "(ii) AT*SQA - Test Automation Micro-credential",
+        skill: "Skills: STLC/SDLC, Defect Reporting, Test Design/Creation/Planning, Test Levels/Types, Risk-based Prioritization"
     },
     {
-        id: 4,
+        id: 5,
         category: "education",
         icon: "icon-graduation",
         year: "September 2014 - June 2019",
@@ -40,7 +53,7 @@ const Data = [
         "• Private STEM Tutor"
     },
     {
-        id: 5,
+        id: 6,
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2023 - April 2024",
@@ -52,7 +65,7 @@ const Data = [
         skill: "Tech: JIRA, JAMA, Confluence, Appian, Workday, Microsoft Excel"
     },
     {
-        id: 6,
+        id: 7,
         category: "experience",
         icon: "icon-briefcase",
         year: "May 2022 - July 2023",
@@ -62,7 +75,7 @@ const Data = [
         skill: "Tech: Canva, Sketchbook, Adobe Express"
     },
     {
-        id: 7,
+        id: 8,
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2022 - April 2023",
@@ -75,7 +88,7 @@ const Data = [
         skill: "Tech: Selenium, JIRA, Jenkins, JUnit, Java, Bitbucket, Git, Postman, MongoDB"
     },
     {
-        id: 8,
+        id: 9,
         category: "experience",
         icon: "icon-briefcase",
         year: "September 2017 - June 2018",

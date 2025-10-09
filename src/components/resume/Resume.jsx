@@ -15,7 +15,8 @@ const Resume = () => {
                                     icon={val.icon} 
                                     title={val.title} 
                                     year={val.year} 
-                                    desc={val.desc} 
+                                    desc={val.desc}
+                                    skill={val.skill} 
                                 />
                     }
                 })}
